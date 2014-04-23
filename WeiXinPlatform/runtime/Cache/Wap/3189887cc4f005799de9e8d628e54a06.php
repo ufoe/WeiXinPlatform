@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?>{"products":[{"id":"22","catid":"10","storeid":"1","name":"赤霞珠葡萄酒","price":"150","token":"ljtvtp1389711310","keyword":"赤霞珠葡萄酒","salecount":"0","logourl":"http://bcs.duapp.com/creatunion/%2F2014-01-15%2F1389796934-1000.png?sign=MBO:E56d21e82c6ead3d4eaa9e2192b93d1d:%2B%2FdYfJ4ZoN65E1aqAdvrn5IhUgs%3D","time":"1389797075","oprice":"150"}]}
